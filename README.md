@@ -12,5 +12,5 @@ This dashboard compares countries across several key indicators including GDP pe
 - Interactive and clean design
 
 📁 Files:
-- `CountryComparison.pbix` – Power BI source file
-- `CountryComparison_LanaVayner.pdf` – Exported PDF for viewing
+- `CountryComparisonDashboard.pbix` – Power BI source file  
+- `CountryComparisonDashboard.pdf` – Exported PDF for viewing
