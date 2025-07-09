@@ -1,6 +1,6 @@
 # powerbi-portfolio
 
-## 📊 Project 4: Financials Dashboard – Product Profit Analysis
+# 📊 Project 4: Financials Dashboard – Product Profit Analysis
 
 This Power BI report provides an interactive overview of product profitability across different customer segments.  
 It includes visuals such as:
