@@ -66,5 +66,3 @@ Users can filter by **region**, **segment**, and **country** to explore trends i
 📁 Files:
 - `SalesDashboard.pbix` – Power BI source file
 - `SalesDashboard_LanaVayner.pdf` – PDF export for quick viewing
-
-
