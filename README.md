@@ -12,6 +12,7 @@ It includes visuals such as:
 📁 Files:
 - `Financials_Dashboard.pbix` – Power BI source file
 - `ProductProfit_LanaVayner.pdf` – Exported PDF for viewing
+  
 =======
 ## 📊 Project 3: Financials Dashboard
 
@@ -29,6 +30,7 @@ It includes interactive slicers, time-based trend analysis, and KPI cards calcul
 📁 Files:
 - `Financials_Dashboard.pbix` – Power BI source file
 - `FinancialsDashboard_LanaVayner.pdf` – Exported PDF for viewing
+  
 =======
 ## 📊 Project 2: Country Comparison Dashboard
 
@@ -44,6 +46,7 @@ This dashboard compares countries across several key indicators including GDP pe
 📁 Files:
 - `CountryComparison.pbix` – Power BI source file  
 - `CountryComparison_LanaVayner.pdf` – Exported PDF for viewing
+  
 =======
 
 ## 📊 Project 1: Sales Performance Dashboard
