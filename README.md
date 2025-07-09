@@ -10,8 +10,11 @@ It includes visuals such as:
 - Custom footer and author credit
 
 📁 Files:
-- `Financials_Dashboard.pbix` – Power BI source file
-- `ProductProfit_LanaVayner.pdf` – Exported PDF for viewing
+- `Financials_Dashboard.pbix` – Power BI source file  
+- `ProductProfit_LanaVayner.pdf` – 2-page exported PDF: Financial Overview + Product Profit Analysis
+
+📅 Data as of: June 2025
+👩‍💻 Created by: Lana Vayner
   
 =======
 ## 📊 Project 3: Financials Dashboard
