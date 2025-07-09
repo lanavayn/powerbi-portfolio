@@ -4,18 +4,14 @@
 This Power BI report provides an interactive overview of product profitability across different customer segments.
 It includes visuals such as:
 - Bar chart of profit by product
+- Pie chart of profit by segment
+- KPI cards for total revenue and total profit
+- Slicer to filter by year
+- Custom footer and author credit
 
-Pie chart of profit by segment
-
-KPI cards for total revenue and total profit
-
-Slicer to filter by year
-
-Custom footer and author credit
-
-📌 Created by: Lana Vayner
-📅 Data as of: June 2025
-📄 Download PDF Report
+📁 Files:
+- `Financials_Dashboard.pbix` – Power BI source file
+- `ProductProfit_LanaVayner.pdf` – Exported PDF for viewing
 =======
 ## 📊 Project 3: Financials Dashboard
 
